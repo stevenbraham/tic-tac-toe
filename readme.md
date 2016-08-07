@@ -1,0 +1,1 @@
+A **wip** simple Tic tac toe client using the [NW.js](http://nwjs.io/) library. From time to time I will hopefully update this project.
